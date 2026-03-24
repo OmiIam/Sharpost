@@ -28,3 +28,8 @@ build/
 # IDE
 .vscode/
 .idea/
+
+# tool caches
+.mypy_cache/
+.ruff_cache/
+.pre-commit-cache/
