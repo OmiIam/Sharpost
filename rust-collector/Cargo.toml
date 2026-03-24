@@ -1,0 +1,7 @@
+# Phase 2 — Rust sidecar collectors
+# Placeholder until Python benchmarks justify the rewrite.
+# See the design document for the migration plan.
+[package]
+name = "sharpost-collector"
+version = "0.1.0"
+edition = "2021"
