@@ -1,4 +1,4 @@
-# KubePost
+# Sharpost
 
 > Engineers currently spend 20 to 45 minutes gathering context from five tools when a Kubernetes alert fires. KubePost eliminates that cold start.
 
